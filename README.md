@@ -1,3 +1,4 @@
+被动扫描插件
 # Damn Web Scanner
 Another web vulnerabilities scanner, this extension works on Chrome and Opera.
 The extension is working on the background and will notify you if it finds any vulnerability.
